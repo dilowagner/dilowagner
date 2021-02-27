@@ -15,7 +15,7 @@ In the last few years I have been studying a lot that I have always been fascina
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m work on [@Fobia](https://www.fobiaojogo.com/) Project
-- 🌱 I’m currently learning Rust Language
+- 🌱 I’m currently learning [Rust Language](https://www.rust-lang.org)
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: linkedin
 
