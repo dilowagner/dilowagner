@@ -16,8 +16,10 @@ In the last few years I have been studying a lot that I have always been fascina
 
 - 👨🏽‍💻 I’m work on [@Fobia](https://www.fobiaojogo.com/) Project
 - 🌱 I’m currently learning [Rust Language](https://www.rust-lang.org)
-- 💬 Ask me about anything, I am happy to help
+- ⚡ Always Learning!
+- 😄 Knowledge AWS Cloud
 - 📫 How to reach me: linkedin
+- 💬 Ask me about anything, I am happy to help
 
 **Languages and Tools:**   
 
