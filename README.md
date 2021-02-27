@@ -26,12 +26,10 @@ In the last few years I have been studying a lot that I have always been fascina
 **Top Repositories**
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=discovery-tecnologia&repo=dsc-mercado-livre&theme=radical)](https://github.com/discovery-tecnologia/dsc-mercado-livre)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dilowagner&repo=singo-ie-validation&theme=radical)](https://github.com/dilowagner/singo-ie-validation)
 
 **Stats**
 
 ![dilowagner's github stats](https://github-readme-stats.vercel.app/api?username=dilowagner&show_icons=true&theme=radical)
-![Most Usage Language](https://github-readme-stats.vercel.app/api/top-langs/?username=dilowagner&hide=html,shaderlab&layout=compact&theme=radical)
 
 ----
 
