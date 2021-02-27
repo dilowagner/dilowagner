@@ -23,8 +23,15 @@ In the last few years I have been studying a lot that I have always been fascina
 
 ####       ![](https://img.shields.io/badge/Web%20Development-%3C%2F%3E-blueviolet) ![](https://img.shields.io/badge/AWS%20Cloud-%3C%2F%3E-yellow)  ![](https://img.shields.io/badge/PHP-%3C%2F%3E-blue) ![](https://img.shields.io/badge/NodeJS-%7C-0%2C%2022%2C%20100) ![](https://img.shields.io/badge/Golang-%3C%2F%3E-blue) ![](https://img.shields.io/badge/C++-%7C-yellowgreen) ![](https://img.shields.io/badge/C#-%7C-0%2C%2022%2C%20100)![](https://img.shields.io/badge/git-%7C-ff69b4) ![](https://img.shields.io/badge/Testing-%3C%2F%3E-blueviolet)
 
+**Top Repositories**
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=discovery-tecnologia&repo=dsc-mercado-livre&theme=radical)](https://github.com/discovery-tecnologia/dsc-mercado-livre)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dilowagner&repo=singo-ie-validation&theme=radical)](https://github.com/dilowagner/singo-ie-validation)
+
+**Stats**
+
 ![dilowagner's github stats](https://github-readme-stats.vercel.app/api?username=dilowagner&show_icons=true&theme=radical)
-![Most Usage Language](https://github-readme-stats.vercel.app/api/top-langs/?username=dilowagner&hide=html&layout=compact&theme=radical)
+![Most Usage Language](https://github-readme-stats.vercel.app/api/top-langs/?username=dilowagner&hide=html,shaderlab&layout=compact&theme=radical)
 
 ----
 
