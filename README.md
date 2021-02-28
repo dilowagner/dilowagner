@@ -23,7 +23,7 @@ In the last few years I have been studying a lot that I have always been fascina
 
 **Languages and Tools:**   
 
-####       ![](https://img.shields.io/badge/Web%20Development-%3C%2F%3E-blueviolet) ![](https://img.shields.io/badge/AWS%20Cloud-%3C%2F%3E-yellow)  ![](https://img.shields.io/badge/PHP-%3C%2F%3E-blue) ![](https://img.shields.io/badge/NodeJS-%7C-0%2C%2022%2C%20100) ![](https://img.shields.io/badge/Golang-%3C%2F%3E-blue) ![](https://img.shields.io/badge/C++-%7C-yellowgreen) ![](https://img.shields.io/badge/csharp-%7C-red) ![](https://img.shields.io/badge/C#-%7C-0%2C%2022%2C%20100)![](https://img.shields.io/badge/git-%7C-ff69b4) ![](https://img.shields.io/badge/Testing-%3C%2F%3E-blueviolet)
+####       ![](https://img.shields.io/badge/Web%20Development-%3C%2F%3E-blueviolet) ![](https://img.shields.io/badge/AWS%20Cloud-%3C%2F%3E-yellow)  ![](https://img.shields.io/badge/PHP-%3C%2F%3E-blue) ![](https://img.shields.io/badge/NodeJS-%7C-0%2C%2022%2C%20100) ![](https://img.shields.io/badge/Golang-%3C%2F%3E-blue) ![](https://img.shields.io/badge/C++-%7C-yellowgreen) ![](https://img.shields.io/badge/csharp-%7C-red) ![](https://img.shields.io/badge/C#-%7C-0%2C%2022%2C%20100)![](https://img.shields.io/badge/git-%7C-ff69b4) ![](https://img.shields.io/badge/Docker-%3C%2F%3E-blueviolet)
 
 **Top Repositories**
 
