@@ -6,18 +6,18 @@
 
 <br/>
 
-I am a developer passionate about Technology and Games. From Brazil, Bachelor of Computer Science, I'm experienced (+10 years) Web Developer|Game Developer 🚀. 
+I am a developer passionate about Technology and Games. From Brazil, Bachelor of Computer Science, I'm experienced (+10 years) Web Developer | Game Developer 🚀. 
 
 During my career, I worked with PHP language (Zend Framework 2), MySQL database and the most diverse front-end technologies. I love the Open Source universe and constant learning, standards and codes well built. I always seek to prioritize project deadlines and quality. I also have knowledge in other technologies like C#, Golang and NodeJS. 👨🏽‍💻 
 
-In the last few years I have been studying a lot that I have always been fascinated, Development of Games with Unreal 4 (C++ and Blueprints).
+In the last few years I have been studying a lot that I have always been fascinated, game development with Unreal 4 (C++ and Blueprints).
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m work on [@Fobia](https://www.fobiaojogo.com/) Project
+- 👨🏽‍💻 I’m working on [@Fobia](https://www.fobiaojogo.com/) Project
 - 🌱 I’m currently learning [Rust Language](https://www.rust-lang.org)
 - ⚡ Always Learning!
-- 😄 Knowledge AWS Cloud
+- 😄 Knowledge on AWS Cloud
 - 📫 How to reach me: linkedin
 - 💬 Ask me about anything, I am happy to help
 
